@@ -15,5 +15,3 @@ adicionar.addEventListener('click', function(){
     listaTarefa.appendChild(li)
 
 });
-
- 
